@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1003388076935",
+    "project_id": "blue-ribbon-f8a15",
+    "storage_bucket": "blue-ribbon-f8a15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003388076935:android:be93bf86e276f8b6e1c922",
+        "android_client_info": {
+          "package_name": "com.three.blue_ribbon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdjMwvqTakyeF_J6-eUGjBvs80H46lhy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
